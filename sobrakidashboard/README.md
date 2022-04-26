@@ -1,0 +1,1 @@
+A simple dashboard using NextJs
